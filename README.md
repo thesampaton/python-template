@@ -22,6 +22,8 @@ curl https://pyenv.run | bash
 2. Rename package by updating ./pyproject.toml with your name
 3. Change Author
 4. run ```poetry update```
+5. ```pre-commit install```
+6. ```pre-commit run --all-files```
 
 
 Based (is) on Alex Mitelmans Work
